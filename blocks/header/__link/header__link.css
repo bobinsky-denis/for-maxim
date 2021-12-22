@@ -1,0 +1,11 @@
+/*Ссылка в нижнем абзаце в хедер*/
+.header__link {
+  text-decoration: none;
+  color: #2F80ed;
+  cursor: pointer;
+}
+
+.header__link:hover {
+  opacity: 0.4;
+  transition: 0.3s;
+}
